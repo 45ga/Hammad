@@ -1,0 +1,22 @@
+$pkg install wget
+$ pkg install python2
+$ pkg install ruby
+$ pkg install lolcut
+$ wget 
+ https://github.com/Hax4us/TermuxBlack/raw/master/install.sh
+$ bash install.sh
+$ apt update
+$ apt install lemon
+$ lemon
+ ctrl + c
+ cd
+
+
+ cd $PREFIX/share/lemon/server
+ $ nano maindb.json
+ ctrl + o
+ y
+ ctrl + z
+ cd
+ lemon
+address.lemon https://127.0.0.1:22533
